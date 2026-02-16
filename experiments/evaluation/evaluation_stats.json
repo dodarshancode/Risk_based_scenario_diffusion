@@ -1,0 +1,47 @@
+{
+  "guidance_0.0": {
+    "guidance_scale": 0.0,
+    "num_samples": 1000,
+    "critical_rate": 0.601,
+    "collision_rate": 0.592,
+    "avg_criticality_score": 0.8231189071244942,
+    "avg_min_ttc": 2253.6060908536138,
+    "avg_min_gap": -45.77551792378962
+  },
+  "guidance_1.0": {
+    "guidance_scale": 1.0,
+    "num_samples": 1000,
+    "critical_rate": 0.611,
+    "collision_rate": 0.617,
+    "avg_criticality_score": 0.8459234906021889,
+    "avg_min_ttc": 873.8089098127161,
+    "avg_min_gap": -52.46357307348236
+  },
+  "guidance_2.0": {
+    "guidance_scale": 2.0,
+    "num_samples": 1000,
+    "critical_rate": 0.378,
+    "collision_rate": 0.747,
+    "avg_criticality_score": 0.5552745482119481,
+    "avg_min_ttc": 758.3936235008375,
+    "avg_min_gap": -562.1317716197916
+  },
+  "guidance_3.0": {
+    "guidance_scale": 3.0,
+    "num_samples": 1000,
+    "critical_rate": 0.349,
+    "collision_rate": 0.757,
+    "avg_criticality_score": 0.5568945756715331,
+    "avg_min_ttc": 796.445329259357,
+    "avg_min_gap": -1236.775948528503
+  },
+  "guidance_5.0": {
+    "guidance_scale": 5.0,
+    "num_samples": 1000,
+    "critical_rate": 0.349,
+    "collision_rate": 0.767,
+    "avg_criticality_score": 0.6500280524044237,
+    "avg_min_ttc": 975.5422624335824,
+    "avg_min_gap": -2844.9015152705224
+  }
+}
