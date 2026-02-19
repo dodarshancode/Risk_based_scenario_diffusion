@@ -35,7 +35,7 @@ Run an evaluation campaign across multiple guidance scales.
 Save metrics, critical scenario artifacts, and plots.
 
 ### Outputs
-After a successful run, artifacts are written under:
+After a successful run, you can see the outputs here:
 
 text
 experiments/
