@@ -74,12 +74,3 @@ collisions,
 harsh braking events,
 
 minimum gap and minimum TTC.
-
-## How to Extend (Research Direction)
-This repo is intentionally compact. If you want to evolve it toward state-of-the-art multi-agent simulation (e.g., VBD-style behavior diffusion), the recommended next steps are:
-
-move from 2-agent car-following to multi-agent joint diffusion,
-
-condition on a richer scene context encoder (maps, agent history, traffic light states),
-
-add inference-time scenario editing via differentiable objective guidance.
